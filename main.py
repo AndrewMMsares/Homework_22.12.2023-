@@ -1,3 +1,17 @@
+# Task 2
+# print("Hello user")
+# string = input("Please enter string: ")
+# search = input("Please enter letter: ")
+#
+# count = 0
+#
+# for i in string:
+#     if i == search:
+#         count += 1
+#
+# print("symbol: ", search, "\nmeets: ", count)
+
+
 # Task 3.1
 # string = input("Enter the line ")
 # word = input("Enter a word to search for: ")
@@ -22,32 +36,12 @@
 # last_string = ' '.join(words)
 # print(last_string)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Task 2
-# print("Hello user")
-# string = input("Please enter string: ")
-# search = input("Please enter letter: ")
-#
-# count = 0
-#
-# for i in string:
-#     if i == search:
-#         count += 1
-#
-# print("symbol: ", search, "\nmeets: ", count)
-
+# Task 4
+# string = input("Enter the line ")
+# print(string[2])
+# print(string[-2])
+# print(string[:5])
+# print(string[::2])
+# print(string[1::2])
+# print(string[::-1])
+# print(string[::-2])
